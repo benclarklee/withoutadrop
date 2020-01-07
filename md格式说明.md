@@ -11,7 +11,7 @@ Markdown 目录：
 - 列表项目
 1. 列表项目
 
-*斜体*或_斜体_
+*斜体* 或 _斜体_
 **粗体**
 ***加粗斜体***
 ~~删除线~~
@@ -80,13 +80,12 @@ Markdown 目录：
 插入图片：
 ![alt text](/path/to/img.jpg "Title")
 
-插入代码块：
-
-    ```
+插入代码块：<br/><br/>
+	```
 	python
     #!/usr/bin/python3
     print("Hello, World!");
-    ```
+	```
 
 引用：
 > 引用内容
